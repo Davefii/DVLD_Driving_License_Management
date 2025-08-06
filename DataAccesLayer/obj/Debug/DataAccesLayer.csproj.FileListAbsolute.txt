@@ -1,0 +1,9 @@
+D:\File-String-Library-Project\New folder\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+D:\File-String-Library-Project\New folder\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+D:\File-String-Library-Project\New folder\DataAccesLayer\bin\Debug\clsDataAccessSettings.dll
+D:\File-String-Library-Project\New folder\DataAccesLayer\bin\Debug\clsDataAccessSettings.pdb
+D:\File-String-Library-Project\New folder\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+D:\File-String-Library-Project\New folder\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+D:\File-String-Library-Project\New folder\DataAccesLayer\obj\Debug\DataAcce.AB8F2C65.Up2Date
+D:\File-String-Library-Project\New folder\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+D:\File-String-Library-Project\New folder\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

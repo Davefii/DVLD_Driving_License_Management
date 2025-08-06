@@ -1,0 +1,6 @@
+D:\File-String-Library-Project\New folder\clsDataAccessSettings\bin\Debug\clsDataAccessSettings.dll
+D:\File-String-Library-Project\New folder\clsDataAccessSettings\bin\Debug\clsDataAccessSettings.pdb
+D:\File-String-Library-Project\New folder\clsDataAccessSettings\obj\Debug\clsDataAccessSettings.csproj.AssemblyReference.cache
+D:\File-String-Library-Project\New folder\clsDataAccessSettings\obj\Debug\clsDataAccessSettings.csproj.CoreCompileInputs.cache
+D:\File-String-Library-Project\New folder\clsDataAccessSettings\obj\Debug\clsDataAccessSettings.dll
+D:\File-String-Library-Project\New folder\clsDataAccessSettings\obj\Debug\clsDataAccessSettings.pdb
